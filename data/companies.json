@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "name": "Aurora Tech",
+    "industry": "Software",
+    "location": "Bengaluru, India",
+    "employees": 120,
+    "website": "https://aurora.example.com"
+  },
+  {
+    "id": "2",
+    "name": "GreenLeaf Foods",
+    "industry": "FMCG",
+    "location": "Pune, India",
+    "employees": 60,
+    "website": "https://greenleaf.example.com"
+  },
+  {
+    "id": "3",
+    "name": "Nimbus Finance",
+    "industry": "Finance",
+    "location": "Mumbai, India",
+    "employees": 200,
+    "website": "https://nimbus.example.com"
+  },
+  {
+    "id": "4",
+    "name": "BlueWave Energy",
+    "industry": "Energy",
+    "location": "Hyderabad, India",
+    "employees": 80,
+    "website": "https://bluewave.example.com"
+  },
+  {
+    "id": "5",
+    "name": "ZenCart Logistics",
+    "industry": "Logistics",
+    "location": "Delhi, India",
+    "employees": 150,
+    "website": "https://zencart.example.com"
+  },
+  {
+    "id": "6",
+    "name": "Solaris Renewables",
+    "industry": "Renewable Energy",
+    "location": "Chennai, India",
+    "employees": 95,
+    "website": "https://solaris.example.com"
+  },
+  {
+    "id": "7",
+    "name": "SkyBridge Consulting",
+    "industry": "Consulting",
+    "location": "Gurugram, India",
+    "employees": 220,
+    "website": "https://skybridge.example.com"
+  },
+  {
+    "id": "8",
+    "name": "ByteForge Systems",
+    "industry": "Software",
+    "location": "Noida, India",
+    "employees": 180,
+    "website": "https://byteforge.example.com"
+  },
+  {
+    "id": "9",
+    "name": "FreshRoots Organics",
+    "industry": "Agriculture",
+    "location": "Kochi, India",
+    "employees": 75,
+    "website": "https://freshroots.example.com"
+  },
+  {
+    "id": "10",
+    "name": "UrbanNest Realty",
+    "industry": "Real Estate",
+    "location": "Ahmedabad, India",
+    "employees": 110,
+    "website": "https://urbannest.example.com"
+  },
+  {
+    "id": "11",
+    "name": "MetaSecure Cyberlabs",
+    "industry": "Cybersecurity",
+    "location": "Bengaluru, India",
+    "employees": 140,
+    "website": "https://metasecure.example.com"
+  },
+  {
+    "id": "12",
+    "name": "AquaPure Solutions",
+    "industry": "Water Technology",
+    "location": "Indore, India",
+    "employees": 50,
+    "website": "https://aquapure.example.com"
+  },
+  {
+    "id": "13",
+    "name": "RapidHire HR Services",
+    "industry": "HR",
+    "location": "Pune, India",
+    "employees": 130,
+    "website": "https://rapidhire.example.com"
+  },
+  {
+    "id": "14",
+    "name": "SilverLine Education",
+    "industry": "EdTech",
+    "location": "Hyderabad, India",
+    "employees": 190,
+    "website": "https://silverline.example.com"
+  },
+  {
+    "id": "15",
+    "name": "FinPulse Analytics",
+    "industry": "Finance",
+    "location": "Mumbai, India",
+    "employees": 210,
+    "website": "https://finpulse.example.com"
+  },
+  {
+    "id": "16",
+    "name": "MediNova Labs",
+    "industry": "Healthcare",
+    "location": "Chennai, India",
+    "employees": 160,
+    "website": "https://medinova.example.com"
+  },
+  {
+    "id": "17",
+    "name": "EcoRide Motors",
+    "industry": "Automobile",
+    "location": "Pune, India",
+    "employees": 300,
+    "website": "https://ecoride.example.com"
+  },
+  {
+    "id": "18",
+    "name": "SmartPay Digital",
+    "industry": "FinTech",
+    "location": "Bengaluru, India",
+    "employees": 250,
+    "website": "https://smartpay.example.com"
+  },
+  {
+    "id": "19",
+    "name": "FoodCraft Kitchens",
+    "industry": "FMCG",
+    "location": "Delhi, India",
+    "employees": 90,
+    "website": "https://foodcraft.example.com"
+  },
+  {
+    "id": "20",
+    "name": "NovaCom Networks",
+    "industry": "Telecom",
+    "location": "Noida, India",
+    "employees": 280,
+    "website": "https://novacom.example.com"
+  },
+  {
+    "id": "21",
+    "name": "PrimeSteel Manufacturing",
+    "industry": "Manufacturing",
+    "location": "Jamshedpur, India",
+    "employees": 320,
+    "website": "https://primesteel.example.com"
+  },
+  {
+    "id": "22",
+    "name": "CloudPeak Hosting",
+    "industry": "Cloud Technology",
+    "location": "Bengaluru, India",
+    "employees": 140,
+    "website": "https://cloudpeak.example.com"
+  },
+  {
+    "id": "23",
+    "name": "Glamora Fashion",
+    "industry": "Fashion",
+    "location": "Mumbai, India",
+    "employees": 70,
+    "website": "https://glamora.example.com"
+  },
+  {
+    "id": "24",
+    "name": "EduBridge Classes",
+    "industry": "Education",
+    "location": "Kolkata, India",
+    "employees": 130,
+    "website": "https://edubridge.example.com"
+  },
+  {
+    "id": "25",
+    "name": "CineVibe Studios",
+    "industry": "Media",
+    "location": "Hyderabad, India",
+    "employees": 85,
+    "website": "https://cinevibe.example.com"
+  },
+  {
+    "id": "26",
+    "name": "AeroFlux Drones",
+    "industry": "Aerospace",
+    "location": "Bengaluru, India",
+    "employees": 100,
+    "website": "https://aeroflux.example.com"
+  },
+  {
+    "id": "27",
+    "name": "VitalCare Pharmacy",
+    "industry": "Healthcare",
+    "location": "Chennai, India",
+    "employees": 190,
+    "website": "https://vitalcare.example.com"
+  },
+  {
+    "id": "28",
+    "name": "RoboLogic Automation",
+    "industry": "Automation",
+    "location": "Pune, India",
+    "employees": 150,
+    "website": "https://roblogic.example.com"
+  },
+  {
+    "id": "29",
+    "name": "UrbanCycle Mobility",
+    "industry": "Transport",
+    "location": "Mumbai, India",
+    "employees": 230,
+    "website": "https://urbancycle.example.com"
+  },
+  {
+    "id": "30",
+    "name": "CrystalSoft ERP",
+    "industry": "Software",
+    "location": "Hyderabad, India",
+    "employees": 170,
+    "website": "https://crystalsoft.example.com"
+  },
+  {
+    "id": "31",
+    "name": "GreenGrid Power",
+    "industry": "Power",
+    "location": "Nagpur, India",
+    "employees": 260,
+    "website": "https://greengrid.example.com"
+  },
+  {
+    "id": "32",
+    "name": "FinVision Advisors",
+    "industry": "Finance",
+    "location": "Delhi, India",
+    "employees": 140,
+    "website": "https://finvision.example.com"
+  },
+  {
+    "id": "33",
+    "name": "SwiftX Ecommerce",
+    "industry": "Ecommerce",
+    "location": "Bengaluru, India",
+    "employees": 220,
+    "website": "https://swiftx.example.com"
+  },
+  {
+    "id": "34",
+    "name": "DataSphere AI",
+    "industry": "Artificial Intelligence",
+    "location": "Mumbai, India",
+    "employees": 180,
+    "website": "https://datasphere.example.com"
+  },
+  {
+    "id": "35",
+    "name": "PureGlow Cosmetics",
+    "industry": "Cosmetics",
+    "location": "Hyderabad, India",
+    "employees": 95,
+    "website": "https://pureglow.example.com"
+  },
+  {
+    "id": "36",
+    "name": "TechNest Innovations",
+    "industry": "Technology",
+    "location": "Chennai, India",
+    "employees": 200,
+    "website": "https://technest.example.com"
+  },
+  {
+    "id": "37",
+    "name": "SafeShip Couriers",
+    "industry": "Logistics",
+    "location": "Kochi, India",
+    "employees": 120,
+    "website": "https://safeship.example.com"
+  },
+  {
+    "id": "38",
+    "name": "OceanEdge Trading",
+    "industry": "Trading",
+    "location": "Visakhapatnam, India",
+    "employees": 75,
+    "website": "https://oceanedge.example.com"
+  },
+  {
+    "id": "39",
+    "name": "BrightPath Learning",
+    "industry": "EdTech",
+    "location": "Pune, India",
+    "employees": 160,
+    "website": "https://brightpath.example.com"
+  },
+  {
+    "id": "40",
+    "name": "ElectroCore Devices",
+    "industry": "Electronics",
+    "location": "Chennai, India",
+    "employees": 240,
+    "website": "https://electrocore.example.com"
+  },
+  {
+    "id": "41",
+    "name": "FarmFresh Agro",
+    "industry": "Agriculture",
+    "location": "Patna, India",
+    "employees": 85,
+    "website": "https://farmfresh.example.com"
+  },
+  {
+    "id": "42",
+    "name": "BlueDot Studios",
+    "industry": "Design",
+    "location": "Mumbai, India",
+    "employees": 55,
+    "website": "https://bluedot.example.com"
+  },
+  {
+    "id": "43",
+    "name": "MaxHealth Diagnostics",
+    "industry": "Healthcare",
+    "location": "Hyderabad, India",
+    "employees": 300,
+    "website": "https://maxhealth.example.com"
+  },
+  {
+    "id": "44",
+    "name": "InstaServe Hospitality",
+    "industry": "Hospitality",
+    "location": "Goa, India",
+    "employees": 90,
+    "website": "https://instaserve.example.com"
+  },
+  {
+    "id": "45",
+    "name": "VertexCloud IT",
+    "industry": "IT Services",
+    "location": "Bengaluru, India",
+    "employees": 270,
+    "website": "https://vertexcloud.example.com"
+  },
+  {
+    "id": "46",
+    "name": "Astra Pharmaceuticals",
+    "industry": "Pharmaceutical",
+    "location": "Ahmedabad, India",
+    "employees": 330,
+    "website": "https://astrapharma.example.com"
+  },
+  {
+    "id": "47",
+    "name": "UrbanHive Interiors",
+    "industry": "Interior Design",
+    "location": "Delhi, India",
+    "employees": 65,
+    "website": "https://urbanhive.example.com"
+  },
+  {
+    "id": "48",
+    "name": "SkyLift Aviation",
+    "industry": "Aviation",
+    "location": "Mumbai, India",
+    "employees": 400,
+    "website": "https://skylift.example.com"
+  },
+  {
+    "id": "49",
+    "name": "CodeWave Solutions",
+    "industry": "Software",
+    "location": "Hyderabad, India",
+    "employees": 185,
+    "website": "https://codewave.example.com"
+  },
+  {
+    "id": "50",
+    "name": "EcoBloom Botanics",
+    "industry": "Biotech",
+    "location": "Bengaluru, India",
+    "employees": 140,
+    "website": "https://ecobloom.example.com"
+  }
+]
